@@ -1,0 +1,11 @@
+C:\Users\ployp\source\repos\Assignment 5\bin\Debug\Assignment 5.exe.config
+C:\Users\ployp\source\repos\Assignment 5\bin\Debug\Assignment 5.exe
+C:\Users\ployp\source\repos\Assignment 5\bin\Debug\Assignment 5.pdb
+C:\Users\ployp\source\repos\Assignment 5\obj\Debug\Assignment 5.csproj.AssemblyReference.cache
+C:\Users\ployp\source\repos\Assignment 5\obj\Debug\Assignment 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\ployp\source\repos\Assignment 5\obj\Debug\Assignment_5.Properties.Resources.resources
+C:\Users\ployp\source\repos\Assignment 5\obj\Debug\Assignment 5.csproj.GenerateResource.cache
+C:\Users\ployp\source\repos\Assignment 5\obj\Debug\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\ployp\source\repos\Assignment 5\obj\Debug\Assignment 5.exe
+C:\Users\ployp\source\repos\Assignment 5\obj\Debug\Assignment 5.pdb
+C:\Users\ployp\source\repos\Assignment 5\obj\Debug\Assignment_5.MainForm.resources
